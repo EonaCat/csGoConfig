@@ -20,7 +20,7 @@ NightBits Counter-Strike Global Offensive config
 - F12: Create Steam Screenshot
 - DEL: Reload configuration file
 
-- E: Enable or disable the in-game instructor for easy bomb find
+- ,: Enable or disable the in-game instructor for easy bomb find
 - \: Drop the C4 on the ground
 - ALT: Jump throw a grenade
 
