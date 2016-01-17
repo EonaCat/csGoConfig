@@ -21,7 +21,7 @@ NightBits Counter-Strike Global Offensive config
 - DEL: Reload configuration file
 
 - E: Enable or disable the in-game instructor for easy bomb find
-- X: Drop the C4 on the ground
+- \: Drop the C4 on the ground
 - ALT: Jump throw a grenade
 
 - HOME: Change crosshairColor
