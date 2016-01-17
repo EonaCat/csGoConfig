@@ -19,6 +19,11 @@ NightBits Counter-Strike Global Offensive config
 - F11: Switch Crosshairs
 - F12: Create Steam Screenshot
 - DEL: Reload configuration file
+
+- E: Enable or disable the in-game instructor for easy bomb find
+- X: Drop the C4 on the ground
+- ALT: Jump throw a grenade
+
 - HOME: Change crosshairColor
 - INSERT: Change teamColor
 - -: Disable or enable Sound of receiving voiceChats
