@@ -23,6 +23,8 @@ NightBits Counter-Strike Global Offensive config
 - ,: Enable or disable the in-game instructor for easy bomb find
 - CAPSLOCK: Drop the C4 on the ground
 - ALT: Jump throw a grenade
+- [ : Enable NightBits BotScript (For own server hosting)
+- ] : Disable NightBits BotScript (For own server hosting)
 
 - HOME: Change crosshairColor
 - INSERT: Change teamColor
