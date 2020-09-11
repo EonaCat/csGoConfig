@@ -42,7 +42,7 @@ EonaCat Counter-Strike Global Offensive config
 - keypad_upArrow: buy M4A1 or AK47
 - keypad_pageUp: buy FAMAS or Galilar
 - keypad_slash: buy p90
-- keupad_multiply: buy UMP45
+- keypad_multiply: buy UMP45
 - keypad_minus: buy sawedoff shotgun
 - keypad_plus: buy p250
 - keypad_dot: buy defuse kit, kevlar and helmet, grenade, 2 flashbangs, smokegrenade, molotov, incendiary grenade
