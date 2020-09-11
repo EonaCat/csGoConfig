@@ -1,7 +1,7 @@
-NightBits csGoConfig
+EonaCat csGoConfig
 ==========
 
-NightBits Counter-Strike Global Offensive config
+EonaCat Counter-Strike Global Offensive config
 
 - A screenshot is made after the match
 - Resolution is set to 2560x1440
@@ -23,8 +23,8 @@ NightBits Counter-Strike Global Offensive config
 - ,: Enable or disable the in-game instructor for easy bomb find
 - CAPSLOCK: Drop the C4 on the ground
 - ALT: Jump throw a grenade
-- [ : Enable NightBits BotScript (For own server hosting)
-- ] : Disable NightBits BotScript (For own server hosting)
+- [ : Enable EonaCat BotScript (For own server hosting)
+- ] : Disable EonaCat BotScript (For own server hosting)
 
 - HOME: Change crosshairColor
 - INSERT: Change teamColor
