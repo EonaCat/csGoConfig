@@ -1,6 +1,6 @@
 cs go launch options:
 
--novid -noborder -high -threads 6 -64bit +mat_queue_mode 2 cl_forcepreload 1 -freq 144 -refresh 144 -tickrate 128 -nojoy -nod3d9ex -noaafonts +exec autoexec.cfg +mat_vignette_enable 0 -processheap +mat_hdr_level 0 +mat_forceaniso 0 -language NightBits
+-novid -noborder -high -threads 6 -64bit +mat_queue_mode 2 cl_forcepreload 1 -freq 144 -refresh 144 -tickrate 128 -nojoy -nod3d9ex -noaafonts +exec autoexec.cfg +mat_vignette_enable 0 -processheap +mat_hdr_level 0 +mat_forceaniso 0 -language EonaCat
 
 Copy the autoexec.cfg in :
 
